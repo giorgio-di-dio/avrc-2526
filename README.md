@@ -34,7 +34,18 @@ jupyter notebook netsci/tutorials/src/
 
 ## Module 2 — Data Visualization
 
-*Coming soon.*
+📄 **[Syllabus](dataviz/dv_syllabus.pdf)**
+
+| Folder | Description |
+|---|---|
+| `dataviz/slides/` | Lecture slides (PDF) |
+| `dataviz/tutorials/` | Tutorials and exercises |
+
+### Lectures
+
+| # | Topic | Slides | Tutorial |
+|---|---|---|---|
+| 1 | Introduction to Visual Perception | [dv01-intro-visual-perception.pdf](dataviz/slides/dv01-intro-visual-perception.pdf) | [01-matplotlib/](dataviz/tutorials/01-matplotlib/) |
 
 ---
 
