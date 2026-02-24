@@ -2,38 +2,41 @@
 
 Course materials for **Network Science** at the University of Turin (UNITO).
 
-📄 **[Syllabus](ns_syllabus.pdf)**
+---
 
-## Contents
+## Module 1 — Network Science
+
+📄 **[Syllabus](netsci/ns_syllabus.pdf)**
 
 | Folder | Description |
 |---|---|
-| `slides/` | Lecture slides (PDF) |
-| `tutorials/src/` | Jupyter tutorial notebooks |
-| `tutorials/datasets/` | Network datasets |
+| `netsci/slides/` | Lecture slides (PDF) |
+| `netsci/tutorials/src/` | Jupyter tutorial notebooks |
+| `netsci/tutorials/datasets/` | Network datasets |
 
-## Lectures
+### Lectures
 
 | # | Topic | Slides | Notebook |
 |---|---|---|---|
-| 1 | Introduction | [ns01-intro.pdf](slides/ns01-intro.pdf) | |
-| 2–3 | Recap on Graphs | [ns02-03-graphs.pdf](slides/ns02-03-graphs.pdf) | [01-intro-graphs.ipynb](tutorials/src/01-intro-graphs.ipynb) |
+| 1 | Introduction | [ns01-intro.pdf](netsci/slides/ns01-intro.pdf) | |
+| 2–3 | Recap on Graphs | [ns02-03-graphs.pdf](netsci/slides/ns02-03-graphs.pdf) | [01-intro-graphs.ipynb](netsci/tutorials/src/01-intro-graphs.ipynb) |
 
-## Getting started
-
-### Requirements
-
-```bash
-pip install networkx matplotlib numpy jupyter
-```
-
-### Run the notebooks
+### Getting started
 
 ```bash
 git clone https://github.com/rschifan/avrc-2526.git
 cd avrc-2526
-jupyter notebook tutorials/src/
+pip install networkx matplotlib numpy jupyter
+jupyter notebook netsci/tutorials/src/
 ```
+
+---
+
+## Module 2 — Data Visualization
+
+*Coming soon.*
+
+---
 
 ## Instructor
 
