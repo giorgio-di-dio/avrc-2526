@@ -20,8 +20,8 @@ Course materials for **Network Science** at the University of Turin (UNITO).
 |---|---|---|---|
 | 1 | Introduction | [ns01-intro.pdf](netsci/slides/ns01-intro.pdf) | |
 | 2–3 | Recap on Graphs | [ns02-03-graphs.pdf](netsci/slides/ns02-03-graphs.pdf) | [02-03-intro-graphs.ipynb](netsci/tutorials/src/02-03-intro-graphs.ipynb) |
-| 4 | Strong and Weak Ties | [ns04-strong-weak-ties.pdf](netsci/slides/ns04-strong-weak-ties.pdf) | |
-| 5 | Homophily | [ns05-homophily.pdf](netsci/slides/ns05-homophily.pdf) | |
+| 4 | Strong and Weak Ties | [ns04-strong-weak-ties.pdf](netsci/slides/ns04-strong-weak-ties.pdf) | [04-strong-weak-ties.ipynb](netsci/tutorials/src/04-strong-weak-ties.ipynb) |
+| 5 | Homophily | [ns05-homophily.pdf](netsci/slides/ns05-homophily.pdf) | [05-homophily.ipynb](netsci/tutorials/src/05-homophily.ipynb) |
 
 ### Getting started
 
