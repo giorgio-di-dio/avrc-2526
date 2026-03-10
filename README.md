@@ -24,15 +24,6 @@ Course materials for **Network Science** at the University of Turin (UNITO).
 | 5 | Homophily | [ns05-homophily.pdf](netsci/slides/ns05-homophily.pdf) | [05-homophily.ipynb](netsci/tutorials/src/05-homophily.ipynb) |
 | 6 | Centrality Measures | [ns06-centrality-measures.pdf](netsci/slides/ns06-centrality-measures.pdf) | [06a-eigenvector-centrality.ipynb](netsci/tutorials/src/06a-eigenvector-centrality.ipynb), [06b-katz-centrality.ipynb](netsci/tutorials/src/06b-katz-centrality.ipynb), [06c-centralities.ipynb](netsci/tutorials/src/06c-centralities.ipynb) |
 
-### Getting started
-
-```bash
-git clone https://github.com/rschifan/avrc-2526.git
-cd avrc-2526
-pip install networkx matplotlib numpy jupyter
-jupyter notebook netsci/tutorials/src/
-```
-
 ---
 
 ## Module 2 — Data Visualization
