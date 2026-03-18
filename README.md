@@ -41,6 +41,8 @@ Course materials for **Network Science** at the University of Turin (UNITO).
 |---|---|---|---|
 | 1 | Introduction to Visual Perception | [dv01-intro-visual-perception.pdf](dataviz/slides/dv01-intro-visual-perception.pdf) | |
 | 2 | Nested Model, Data & Task Abstractions | [dv02-model-data-task-abstractions.pdf](dataviz/slides/dv02-model-data-task-abstractions.pdf) | |
+| 3 | Marks, Channels, and Color | [dv03-marks-channels-color.pdf](dataviz/slides/dv03-marks-channels-color.pdf) | |
+| 4 | Tables | [dv04-tables.pdf](dataviz/slides/dv04-tables.pdf) | |
 
 ---
 
