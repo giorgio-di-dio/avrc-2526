@@ -23,6 +23,10 @@ Course materials for **Network Science** at the University of Turin (UNITO).
 | 4 | Strong and Weak Ties | [ns04-strong-weak-ties.pdf](netsci/slides/ns04-strong-weak-ties.pdf) | [04-strong-weak-ties.ipynb](netsci/tutorials/src/04-strong-weak-ties.ipynb) |
 | 5 | Homophily | [ns05-homophily.pdf](netsci/slides/ns05-homophily.pdf) | [05-homophily.ipynb](netsci/tutorials/src/05-homophily.ipynb) |
 | 6 | Centrality Measures | [ns06-centrality-measures.pdf](netsci/slides/ns06-centrality-measures.pdf) | [06a-eigenvector-centrality.ipynb](netsci/tutorials/src/06a-eigenvector-centrality.ipynb), [06b-katz-centrality.ipynb](netsci/tutorials/src/06b-katz-centrality.ipynb), [06c-centralities.ipynb](netsci/tutorials/src/06c-centralities.ipynb) |
+| 7 | Degree Distributions, Scale-Free Networks, and Robustness | [ns07-degree-distributions-scale-free-robustness.pdf](netsci/slides/ns07-degree-distributions-scale-free-robustness.pdf) | [07a-degree-distributions.ipynb](netsci/tutorials/src/07a-degree-distributions.ipynb), [07b-friendship-paradox.ipynb](netsci/tutorials/src/07b-friendship-paradox.ipynb), [07c-robustness.ipynb](netsci/tutorials/src/07c-robustness.ipynb) |
+| 8 | Network Models | [ns08-network-models.pdf](netsci/slides/ns08-network-models.pdf) | [08a-configuration-model.ipynb](netsci/tutorials/src/08a-configuration-model.ipynb), [08b-er-random-graphs.ipynb](netsci/tutorials/src/08b-er-random-graphs.ipynb), [08c-watts-strogatz.ipynb](netsci/tutorials/src/08c-watts-strogatz.ipynb) |
+| 9 | Preferential Attachment | [ns09-preferential-attachment.pdf](netsci/slides/ns09-preferential-attachment.pdf) | [09a-barabasi-albert.ipynb](netsci/tutorials/src/09a-barabasi-albert.ipynb) |
+| 10 | Extensions of Preferential Attachment | [ns10-preferential-attachment-extensions.pdf](netsci/slides/ns10-preferential-attachment-extensions.pdf) | [10a-attractiveness-model.ipynb](netsci/tutorials/src/10a-attractiveness-model.ipynb), [10b-fitness-model.ipynb](netsci/tutorials/src/10b-fitness-model.ipynb), [10c-random-walk-model.ipynb](netsci/tutorials/src/10c-random-walk-model.ipynb), [10d-copy-model.ipynb](netsci/tutorials/src/10d-copy-model.ipynb) |
 
 ---
 

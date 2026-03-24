@@ -527,6 +527,8 @@ def plot_heatmap(
     matrix,
     *,
     labels=None,
+    x_labels=None,
+    y_labels=None,
     title=None,
     figure_size=FIGURE_SIZE_SMALL,
     cmap=CMAP,
@@ -541,12 +543,19 @@ def plot_heatmap(
     fig, ax = plt.subplots(figsize=figure_size)
     im = ax.imshow(matrix, cmap=cmap, vmin=vmin, vmax=vmax)
 
-    if labels is not None:
-        ticks = np.arange(len(labels))
-        ax.set_xticks(ticks)
-        ax.set_xticklabels(labels)
-        ax.set_yticks(ticks)
-        ax.set_yticklabels(labels)
+    if labels is not None and x_labels is None and y_labels is None:
+        x_labels = labels
+        y_labels = labels
+
+    if x_labels is not None:
+        xticks = np.arange(len(x_labels))
+        ax.set_xticks(xticks)
+        ax.set_xticklabels(x_labels)
+
+    if y_labels is not None:
+        yticks = np.arange(len(y_labels))
+        ax.set_yticks(yticks)
+        ax.set_yticklabels(y_labels)
 
     if annotate:
         low = matrix.min() if vmin is None else vmin
